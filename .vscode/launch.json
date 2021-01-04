@@ -5,6 +5,7 @@
     "version": "0.2.0",
     "configurations": [
         {
+<<<<<<< HEAD
             "type": "java",
             "name": "Launch MyIntStream",
             "request": "launch",
@@ -12,6 +13,8 @@
             "projectName": "Java-Lambda_79a67cd4"
         },
         {
+=======
+>>>>>>> 8dbb45af8a1069048b747a53928c680ab97b2337
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
